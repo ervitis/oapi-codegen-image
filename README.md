@@ -3,4 +3,4 @@ docker image for oapi-codegen
 
 It uses the same version from here https://github.com/deepmap/oapi-codegen
 
-Current version v1.11.0
+Current version v1.10.0
