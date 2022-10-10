@@ -6,6 +6,8 @@ strategy:
 tag:
   apply: True
   format: "v{version}"
+commit:
+  author: ervitis
 auto_remote_push: True
 tracked_files:
   - Dockerfile
