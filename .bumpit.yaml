@@ -9,3 +9,5 @@ tag:
 auto_remote_push: True
 tracked_files:
   - Dockerfile
+  - .github/workflows/docker_push.yml
+  - README.md
