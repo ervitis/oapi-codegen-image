@@ -1,0 +1,11 @@
+current_version: "1.10.0"
+base_branch: "master"
+strategy:
+  name: "semver"
+  part: "minor"
+tag:
+  apply: True
+  format: "v{version}"
+auto_remote_push: True
+tracked_files:
+  - Dockerfile
