@@ -25,4 +25,4 @@ jobs:
        uses: docker/build-push-action@v3
        with:
           push: true
-          tags: ervitis/oapi-codegen:v1.12.3
+          tags: ervitis/oapi-codegen:v1.12.4
